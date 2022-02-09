@@ -4,5 +4,5 @@ My name is Shyam. I work on different parts of the technology landscape and part
 
 - 🌱 I learn everyday and passionate towards understanding Computer Science theory and algorithms.
 - 👯 I’m looking to collaborate on research ideas.
-- 📫 How to reach me: email
+- 📫 How to reach me: shyambhagwat@gmail.com
 
