@@ -1,9 +1,9 @@
-### Hi there 👋
+This is my personal repo. 
 
-My name is Shyam. I work on different parts of the technology landscape and particularly interested in understanding patterns, problems, data and how to put them all together to solve real world challenges.
+I currently work for healthcare systems. My interests - Research and development of algorithms,areas such as Machine learning, Statistical learning.
+Currently pursuing my masters at UT Austin focusing on topics of Machine learning and Artificial intelligence.
 
 - 🌱 I make a point to learn everyday. So learning is never ending.
-- :muscle: I ask myself -how i could make an impact challenging myself against my goals
-- 💡 Key ideas which inspire me - Intuition behind the problem and the solution, what are the assumptions and the subtleties involved.
+- 💡 Passion for discrete math.
 - 📫 How to reach me: shyambhagwat@gmail.com
 
